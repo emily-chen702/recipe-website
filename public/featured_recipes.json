@@ -1,0 +1,77 @@
+[
+    {
+    "id": 3,
+    "title": "Salmon Chazuke",
+    "category": "Japanese",
+    "date": "March 1, 2025",
+    "rating": 5,
+    "image": "/images/salmon_chazuke.jpg",
+    "ingredients": [
+        "2 eggs", 
+        "1 cup spinach",
+        "1/2 avocado",
+        "salt & pepper"
+    ],
+    "instructions": [
+        "boil the eggs",
+        "mix the spinach and avocado",
+        "season to taste with salt and pepper. "
+    ]
+    },
+    {
+    "id": 2,
+    "title": "Tofu Stew",
+    "category": "Korean",
+    "date": "March 1, 2025",
+    "rating": 5,
+    "image": "/images/tofu_stew.jpg",
+    "ingredients": [
+        "2 eggs", 
+        "1 cup spinach",
+        "1/2 avocado",
+        "salt & pepper"
+    ],
+    "instructions": [
+        "boil the eggs",
+        "mix the spinach and avocado",
+        "season to taste with salt and pepper. "
+    ]
+    },
+    {
+        "id": 11,
+        "title": "Katsudon",
+        "category": "Japanese",
+        "description": "Katsudon is epitome of comfort food. Crispy pork cutlet with perfectly seasoned eggs over rice will never not sound enticing to me. Very yummy and quick, this is one of my go to winter work from home meals.",
+        "serving_size": 1,
+        "date": "September 22, 2023",
+        "rating": 5,
+        "image": "/images/katsudon.jpg",
+        "ingredients": [
+            "1 boneless pork chop (can also use chicken breast)", 
+            "salt & pepper",
+            "flour (for dusting)",
+            "2 eggs",
+            "panko or tempura flakes (for coating)",
+            "neutral oil",
+            "1/4 cup chicken or dashi broth (can also use chicken broth + hondashi powder)",
+            "pinch of sugar",
+            "1 - 1 1/2 teaspoon mirin",
+            "1/2 tablespoon light soy sauce",
+            "1/2 onion (sliced)",
+            "1 green onion (sliced and seperate green and white)",
+            "rice (optional)"
+        ],
+        "instructions": [
+            "Combine flour, salt and pepper in a small, flat bowl.",
+            "Scramble eggs in another small, flat bowl.",
+            "Add panko/tempura flakes to one more small, flat bowl.",
+            "Pat the pork chop dry. Then bread it by coating it with flour, dipping it in the scrambled egg mixture and the laying it in the panko.,",
+            "Heat up neutral oil on medium heat. I like to almost cover the pan with oil but not quite.",
+            "Fry the coated pork chop until both sides are golden brown. Remove and place on paper towel.",
+            "In a clean pan, add neutral oil and saute the onions and green onion whites until translucent and slightly caramelized.",
+            "Add chicken stock, soy sauce, mirin and sugar to the onions. Mix well.",
+            "Slice the tonkatsu and return to the pan. Then drizzle the scrambled egg over everything. Cook until it sets.",
+            "Garnish and green onion greens and erve over rice."
+        ]
+    }
+]
