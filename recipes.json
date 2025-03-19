@@ -1,0 +1,334 @@
+[
+    {
+        "id": 3,
+        "title": "Salmon Chazuke",
+        "category": "Japanese",
+        "date": "March 2, 2025",
+        "rating": 3012025,
+        "image": "/images/salmon_chazuke.jpg",
+        "ingredients": [
+            "2 eggs", 
+            "1 cup spinach",
+            "1/2 avocado",
+            "salt & pepper"
+        ],
+        "instructions": [
+            "boil the eggs",
+            "mix the spinach and avocado",
+            "season to taste with salt and pepper. "
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Tofu Stew",
+        "category": "Korean",
+        "date": "March 1, 2025",
+        "rating": 3012025,
+        "image": "/images/tofu_stew.jpg",
+        "ingredients": [
+            "neutral oil",
+            "1/4 onion (diced)",
+            "2 cloves of garlic (minced)",
+            "1 green onion", 
+            "1/2 cup of thinly sliced pork belly or beef",
+            "1/2 cup of kimchi",
+            "1 tablespoon of kimchi juice",
+            "pinch of sugar",
+            "1/8 - 1/4 package of soft tofu",
+            "1 egg (optional)",
+            "1 teaspoon of sesame oil",
+            "1-2 tablespoons of gochugaru",
+            "1/2 - 1 cup of chicken broth (traditionally anchovy stock)"
+        ],
+        "instructions": [
+            "Heat up a stone bowl (or small pot) on medium heat.",
+            "Add neutral oil, onions, green onion whites, and garlic to the stone bowl. Saute until onions are translucent.",
+            "Add the pork belly. Stir until the pork is no longer pink.",
+            "Add the kimchi and kimchi juice and stir for a minute.",
+            "Add 1/2 cup of stock. Cover and cook for ~ 7 minutes.",
+            "Add salt and sugar and mix well.",
+            "Mix sesame oil and gochugaru together in a small separate bowl.",
+            "Add the tofu to the stew. If needed add some more stock.",
+            "Add the sesame oil gochugaru mixture on top and mix.",
+            "(Optional) If using an egg, crack it into the middle and cover for a minute to allow the egg to poach.",
+            "Garnish with green onion greens and serve with rice."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "French Toast",
+        "category": "American",
+        "date": "January 16, 2024",
+        "description": "Fun fact: french toast isn't actually a french dish or invented in France for that matter. It was actually invented by French immigrants in America. Nonetheless, this dish is quick, and requires minimal ingredients. I enjoy my french toast plain, with, fresh berries, or a quick berry compote if you have a sweet tooth.",
+        "image": "/images/french_toast.jpg",
+        "ingredients": [
+            "2 pieces of brioche (I like Trader Joes)", 
+            "1/4 cup milk",
+            "1 1/2 tsp cinnamon",
+            "pinch of sugar",
+            "1 tsp vanilla extract",
+            "1/2 tbsp butter",
+            "optional toppings: cocoa powder, cinnamon, berry compote, fresh berries"
+        ],
+        "instructions": [
+            "In a small, flat bowl, mix the egg, milk, sugar and vanilla and cinnamon.",
+            "Heat up a pan to medium heat.",
+            "Add half of the butter to the pan.",
+            "Quickly dip both sides of one piece of brioche into the egg-milk mixture (a couple seconds per side).",
+            "Add the brioche to the pan and cook for about 3-4 minutes each side or until golden brown.",
+            "Repeat steps for the second piece of brioche.",
+            "Serve as is or with toppings :)"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Katsudon",
+        "category": "Japanese",
+        "description": "Katsudon is epitome of comfort food. Crispy pork cutlet with perfectly seasoned eggs over rice will never not sound enticing to me. Very yummy and quick, this is one of my go to winter work from home meals.",
+        "serving_size": 1,
+        "date": "September 22, 2023",
+        "rating": 5,
+        "image": "/images/katsudon.jpg",
+        "ingredients": [
+            "1 boneless pork chop (can also use chicken breast)", 
+            "salt & pepper",
+            "flour (for dusting)",
+            "2 eggs",
+            "panko or tempura flakes (for coating)",
+            "neutral oil",
+            "1/4 cup chicken or dashi broth (can also use chicken broth + hondashi powder)",
+            "pinch of sugar",
+            "1 - 1 1/2 teaspoon mirin",
+            "1/2 tablespoon light soy sauce",
+            "1/2 onion (sliced)",
+            "1 green onion (sliced and seperate green and white)",
+            "rice (optional)"
+        ],
+        "instructions": [
+            "Combine flour, salt and pepper in a small, flat bowl.",
+            "Scramble eggs in another small, flat bowl.",
+            "Add panko/tempura flakes to one more small, flat bowl.",
+            "Pat the pork chop dry. Then bread it by coating it with flour, dipping it in the scrambled egg mixture and the laying it in the panko.,",
+            "Heat up neutral oil on medium heat. I like to almost cover the pan with oil but not quite.",
+            "Fry the coated pork chop until both sides are golden brown. Remove and place on paper towel.",
+            "In a clean pan, add neutral oil and saute the onions and green onion whites until translucent and slightly caramelized.",
+            "Add chicken stock, soy sauce, mirin and sugar to the onions. Mix well.",
+            "Slice the tonkatsu and return to the pan. Then drizzle the scrambled egg over everything. Cook until it sets.",
+            "Garnish and green onion greens and erve over rice."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Sablefish Risotto",
+        "category": "Italian, American",
+        "description": "This dish is inspired by my trip to Lake Como. In Menaggio, I got this risotto with fried fish. I must admit, it sounds kind of weird but it worked because the brightness of the lemon zest on top brightened it so that the fried fish wasn't too heavy. This dish helps me reminisce on that amazing trip full of great memories and food.",
+        "serving_size": 1,
+        "date": "September 8, 2023",
+        "rating": 5,
+        "image": "/images/sablefish_risotto.jpg",
+        "ingredients": [
+            "small fillet of sablefish (or any white fish that has skin that is good to sear", 
+            "1/3 cup of Arborio rice",
+            "1/2 yellow onion (finely diced)",
+            "1 1/2 tsp lemon juice",
+            "salt & pepper",
+            "chicken broth",
+            "white wine (optional)",
+            "2 cloves garlic (minced)",
+            "parsley",
+            "lemon zest 1/4 lemon",
+            "2 tbsp parmesan cheese + more for topping"
+        ],
+        "instructions": [
+            "Seperate your sablefish into two pieces. One to be pan seared and one piece to be shreded in big pieces and mixed into the risotto.",
+            "Season the sablefish with salt and pepper",
+            "Pan sear one piece of your sablefish.",
+            "Clean your Arborio rice and slightly roast in a saucepan with onion and garlic.", 
+            "Add a splash of white wine to deglaze.",
+            "When the risotto rice has absorbed the white wine, add 1/4 cup of chicken broth.",
+            "Keep adding chicken broth until the risotto rice gets to the desired texture.",
+            "Mix in shredded fish, and cook until fish is cooked (1-2 minutes).",
+            "Finish with lemon juice, parsley and parmesan cheese.",
+            "Serve topped with seared fish and parmesan."
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Pesto Pasta with Chicken",
+        "category": "Italian, American",
+        "description": "I love making pesto pasta in the summer. Pesto itself is super bright and light which lends itself to the season.",
+        "serving_size": 1,
+        "date": "September 3, 2023",
+        "rating": 5,
+        "image": "/images/pesto_pasta_chicken.jpg",
+        "ingredients": [
+            "1 chicken thigh",
+            "1-1 1/2 tbsp pesto", 
+            "4 oz dry pasta or fresh pasta",
+            "garlic powder",
+            "salt & pepper",
+            "parmesan cheese for topping"
+        ],
+        "instructions": [
+            "Season the chicken thigh with garlic powder, salt and pepper.",
+            "Pan fry the chicken thigh (3-4 minutes per side). Slice and set aside",
+            "Start boiling some water in a pot. After the water starts boiling, add 1 tablespoon of salt.",
+            "Add the pasta and boil as per box instructions. If fresh pasta, just blanch. Save pasta water.",
+            "Transfer the pasta to a frying pan on medium low heat. Add pesto and mix. If needed, add pasta water to loosen up the pesto.",
+            "Top the pasta with chicken thigh and parmesan."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Tomato Egg",
+        "category": "Chinese",
+        "description": "This dish is a classic chinese dish I've had for as long as I can remember. When I got my braces, this was the first dish my grandma made for me since it's warm, soft and one of my favorites. It was also the first dish my grandma taught me to make.",
+        "serving_size": 2,
+        "date": "August 31, 2023",
+        "rating": 5,
+        "image": "/images/tomato_egg.jpg",
+        "ingredients": [
+            "1 beefsteak tomato (or 2 roma tomatoes) (score with an X at the bottom)", 
+            "1/2 cup of chicken stock",
+            "1/2 tbsp cornstarch",
+            "splash of soy sauce",
+            "2 eggs",
+            "~ 1 1/2 tsp neutral oil"
+        ],
+        "instructions": [
+            "Start boiling some water in a pot. After the water starts boiling, add the tomato(es) to the pot.",
+            "Boil for 2-3 minutes, until you see the skin start to separate from the tomato.",
+            "Remove the tomato and put in an ice bath. When cool enough to touch, peel the skin off the tomato and roughly dice.",
+            "Soft scramble the eggs in a pan. Remove eggs and set aside.",
+            "Add oil and tomoatoes to the pan on medium heat. Stir for 2 minutes.",
+            "The tomatoes should be a bit dry by now. Add the chicken broth to rehydrate the tomatoes. Stir for a minute.",
+            "Season to taste with soy sauce.",
+            "Turn the heat up to medium high",
+            "Combine cornstarch with equal parts water to make a slurry.",
+            "Slowly add the cornstarch slurry until the toato miture gets to your desired thickness (may not need to add all).",
+            "Return scrambled eggs to pan. Stir and break up the eggs a bit.",
+            "Serve over rice or noodles."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Lemongrass Chicken",
+        "category": "Vietnamese",
+        "description": "This dish is inspired by my time in Northern Virginia. I liked in Arlington, which is convieniently located right next to Falls Church where there is a big vietnamese population. That meant some of the best vietnamese food I've ever had; including classics like lemongrass chicken.",
+        "serving_size": 4,
+        "date": "August 24, 2023",
+        "rating": 5,
+        "image": "/images/lemongrass_chicken.jpg",
+        "ingredients": [
+            "4 chicken thighs", 
+            "1 stalk of lemongrass (cut into ~3 inch pieces, and bruised with the back of a knife)",
+            "2 garlic cloves",
+            "2 tbsp lime juice",
+            "2 tbsp fish sauce",
+            "1 tbsp light soy sauce",
+            "1 tbsp brown sugar",
+            "1 tbsp neutral oil",
+            "nuoc cham: 1/4 cup fish sauce, 4 tbsp rice vinegar, 2 tbsp white sugar, 1/2 cup water, 2 garlic cloves (finely chopped),1 red birds eye chilli (finely chopped), 3 tbsp lime juice",
+            "serve with: rice, vermacelli noodles, lettuce, cucumber, bean sprouts, carrots, lime"
+        ],
+        "instructions": [
+            "Combine Chicken and Marinade ingredients and set aside for at least 1 hour. I prefer to marinate overnight.",
+            "Heat 1/2 tbsp oil in a fry pan over medium heat (or heat the BBQ). Don't heat too high or the sugar in the marinade will burn.",
+            "Remove chicken from marinade, shaking off large bits of lemongrass.",
+            "Place chicken in the pan and cook each side until dark golden brown and chicken is just cooked through - about 3 to 4 minutes each side.",
+            "Let rest for 5 minutes. Then slice into pieces."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Shrimp Scampi",
+        "category": "Italian, American",
+        "description": "The motivation for this dish came from a place in Rockport, Massachusetts. I had this fabulous lobster scampi, and I realized that I could actually attain those flavors with lobster's less luxurious cousin, shrimp.",
+        "serving_size": 2,
+        "date": "August 23, 2023",
+        "rating": 5,
+        "image": "/images/shrimp_scampi.jpg",
+        "ingredients": [
+            "10 shrimp", 
+            "4 oz dry spaghetti or fresh pasta",
+            "garlic powder",
+            "salt & pepper",
+            "1/2 beefsteak tomato (or 1 roma tomato) (diced)",
+            "2 cloves garlic",
+            "~ 3/4 cup chicken broth or white wine (or both)",
+            "parsley"
+        ],
+        "instructions": [
+            "Start boiling some water in a pot. After the water starts boiling, add 1 tablespoon of salt.",
+            "Add pasta and cook to box instructions. If using fresh, only blanch the noodles.",
+            "Season the shrimp generously with salt, pepper and garlic powder.",
+            "Heat a neutral oil in a pan on medium. Lightly brown garlic.",
+            "Add white wine (or chicken broth) to the pan. I usually like to do a bit of both. Let simmer for 1 minute.",
+            "Add shrimp in the pan. Cook until opaque all the way through (~ 45 seconds per side of small shrimp).",
+            "Remove shrimp.",
+            "Add 1 tablespoon of parsley and tomato to the pan. Let tomatoes cook until soft.",
+            "Add the cooked pasta to the pan and toss in the sauce.",
+            "Add back the shrimp and garnish with remaining parsley."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Pan Fried Pork Buns",
+        "category": "Chinese",
+        "date": "March 6, 2021",
+        "description": "I love the frozen pan fried pork buns from the chinese market, and they taste even better when you make them on your own. I use my family's wonton filling recipe and put my own spin on them by making my own dumpling wrappers.",
+        "image": "/images/pan_fried_buns.jpg",
+        "ingredients": [
+            "2 cups of all purpose flour", 
+            "1 tsp sugar",
+            "1 tsp instant yeast",
+            "1/2 cup + 1 tbsp warm water",
+            "1/2 lb ground pork",
+            "1/2 lb shrimp (finely chopped)",
+            "1/2 tbsp ginger (grated)",
+            "3 cloves garlic (minced)",
+            "3 tsp soy sauce",
+            "1 tsp sesame oil",
+            "2 scallions",
+            "1/4 tsp salt",
+            "sesame seeds for topping"
+        ],
+        "instructions": [
+            "Combine flour, yeast and sugar in a large bowl.",
+            "Gradually pour in water while stirring with chopsticks.",
+            "Knead with your hand until a smooth, elastic dough forms. Elastic is when you push down on the dough and it pops back up.",
+            "Cover with a wet kitchen towel and let it rise at room temperature until it doubles in size (about an hour to hour and a half).",
+            "Prepare the filling by combining pork, shrimp, ginger, garlic, soy sauce, sesame oil, salt and scallions in a medium sized bowl.",
+            "Knead the dough on a floured work surface until it returns back to its original size.",
+            "Divide it into ~ 20 equal portions. Work with each piece individually, while keeping the dough not being worked with covered.",
+            "Hold the wrapper in the palm of one hand. Place some filling in the middle. Use the other hand to fold the edge anti-clockwise by pinching with your thumb and index finger until the bun is completely sealed.",
+            "Let rest for 15 minutes before frying.",
+            "Heat up oil in a frying pan over high heat. Place buns in the pan, leaving adequate space between them since they’ll expand.",
+            "When the bottom of each bun turns a light brown, pour enough water to cover the bottom of the pan and cover with a lid.",
+            "Uncover when the water evaporates completely. Leave the buns in the pan until the bottom turns a golden brown (~ 30 seconds).",
+            "I usually test one of the buns first by cutting it open and checking the inside is cooked.",
+            "Serve with sesame seeds and scallions."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Avocado Toast",
+        "category": "American",
+        "date": "October 18, 2020",
+        "description": "This is definitely one of those self explanatory type breakfast, but I figured I'd add to give you some ideas. You can take avocado toast really anywhere you want by customizing the toppings, and I think that's great 👍.",
+        "image": "/images/avocado_toast.jpg",
+        "ingredients": [
+            "1-2 pieces of sourdough (depending on the size)", 
+            "1/2 an avocado, or 1 mini avocado",
+            "a pinch of salt",
+            "optional toppings: fried egg, EBTB seasoning, mexican street corn, bacon, just salt, and more!"
+        ],
+        "instructions": [
+            "Toast your bread.",
+            "If using one piece of bread, cut toast in half. I like to do this to add two different toppings.",
+            "Slice or mash your avocado.",
+            "Lay the avocado on the toasted bread.",
+            "Add a pinch of salt and the rest of your toppings"
+        ]
+    }
+]
