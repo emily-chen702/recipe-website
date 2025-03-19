@@ -5,7 +5,7 @@
         "category": "Japanese",
         "date": "March 2, 2025",
         "rating": 3012025,
-        "image": "/images/salmon_chazuke.jpg",
+        "image": "./recipe-website/images/salmon_chazuke.jpg",
         "ingredients": [
             "2 eggs", 
             "1 cup spinach",
